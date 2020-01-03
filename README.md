@@ -5,6 +5,7 @@
 This application features the ability to retrieve data such as EXIF, GPS, etc embedded in a media file.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71704303-cfa0fd00-2d96-11ea-8525-e2f40498739c.png)
 
 ## Application Compiling
 
